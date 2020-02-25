@@ -1,0 +1,19 @@
+/*Ejercicio 1*/
+/*Todos los elementos <p> que estan dentro de un div con clase .contenedor*/
+.contenedor p{
+    
+}
+/*Ejercicio 2*/
+li .lista:hover{
+    
+}
+/*Ejercicio 3*/
+/*Selecionara los div solo si esta despues de un selector con clase .titulo*/
+.titulo + div{
+    
+}
+/*Ejercicio 4*/
+/*Seleccionara solo los elementos que tengan como extension .pdf¨*/
+a[href*=.pdf] {
+
+}
